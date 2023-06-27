@@ -782,7 +782,8 @@
             "open_notification_options": "Notification options",
             "open_channel_settings": "Channel settings",
             "open_server_settings": "Server settings",
-            "open_group_settings": "Group settings"
+            "open_group_settings": "Group settings",
+            "manage_roles": "Manage Roles"
         },
         "permissions": {
             "required": "Permissions required"

@@ -762,7 +762,8 @@
             "make_owner": "Transfer Group Ownership",
             "report_message": "Report message",
             "report_user": "Report user",
-            "report_server": "Report server"
+            "report_server": "Report server",
+            "manage_roles": "Manage Roles"
         },
         "permissions": {
             "required": "Permissions required"
